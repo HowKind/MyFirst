@@ -1,1 +1,6 @@
 我是中国人！
+#include<stdio.h>
+int main()
+{
+ printf("Hello World!");
+}
